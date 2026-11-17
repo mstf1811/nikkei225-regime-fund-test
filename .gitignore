@@ -1,0 +1,8 @@
+# Raw and price-derived data are not redistributed; see README.
+JPX Data/
+JPX Monthly/
+data/*
+!data/membership/
+data/membership/*.parquet
+__pycache__/
+*.pyc

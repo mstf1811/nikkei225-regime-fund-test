@@ -1,0 +1,242 @@
+date,deleted,added,deleted_name,added_name
+1970-03-30,5402,6703,Fuji Iron & Steel,Oki Electric Ind.
+1971-10-01,4181,6933,Mitsubishi Edogawa Chemical,Yuasa Battery
+1971-11-30,9603,6702,Daiei Motion Picture,Fujitsu
+1972-03-25,7101,8233,Kisya Seizo,Takashimaya
+1972-03-25,8035,6103,Meiji Trading,Okuma Machinery Works
+1972-03-31,3704,8053,Kokusaku Pulp,Sumitomo
+1975-04-01,4067,1925,Tekkosha,Daiwa House
+1975-04-01,3701,1815,Kojin,Tekken Construction
+1978-07-04,4006,8604,Chisso,Nomura Securities
+1978-07-04,1505,8603,Hokkaido Colliery & Steamship,Nikko Securities
+1978-07-04,2603,8583,Nikka Fats & Oil,Nippon Shinpan
+1979-01-06,2101,8201,Dai-Nippon Sugar Mfg,Toyota Motor Sales
+1979-02-22,3703,7752,Nippon Pulp,Ricoh
+1980-07-01,2103,9112,Meiji Sugar Mfg,Sanko Steamship
+1982-06-24,8201,6902,Toyota Motor Sales,Nippon Denso
+1982-11-25,7901,5802,Akimoku Kogyo,Sumitomo Electric
+1984-07-24,6433,4506,Riccar,Dainippon Pharmaceutical
+1985-08-14,9112,4503,Sanko Steamship,Yamanouchi Pharmaceutical
+1986-04-01,5003,9202,Maruzen Oil,All Nippon Airways
+1987-04-01,3111,9432,Omikenshi,Nippon Telegraph & Telephone
+1989-06-01,9103,7012,Japan Line,Kawasaki Heavy Industries
+1990-11-26,5238,6773,Mitsubishi Mining & Cement,Pioneer
+1991-10-01,2102,1861,Taito,Kumagai Gumi
+1991-10-01,3001,6302,Katakura Industries,Sumitomo Heavy Industries
+1991-10-01,3302,7231,Teikoku Sen-I,Topy Industries
+1991-10-01,8235,8003,Matsuzakaya,Tomen
+1991-10-01,9601,8063,Shochiku,Nissho Iwai
+1991-10-01,9602,9065,Toho,Sankyu
+1992-09-24,5478,1886,Nippon Stainless,Aoki
+1992-10-01,2533,1837,Godo Shusei,Hazama
+1992-10-01,3202,6479,Daito Woolen Spinning & Weaving,Minebea
+1992-10-01,8233,8061,Takashimaya,Seika
+1993-04-01,3702,6310,Sanyo-Kokusaku Pulp,Iseki
+1993-07-02,9606,4507,Nikkatsu,Shionogi
+1995-10-02,3201,8252,Japan Wool Textile,Marui
+1996-03-25,8313,9502,Bank of Tokyo,Chubu Electric Power
+1996-09-24,3862,8320,Honshu Paper,Sanwa Bank
+1997-09-24,4001,5105,Mitsui Toatsu Chemicals,Toyo Tire & Rubber
+1998-09-24,5231,8322,Nihon Cement,Asahi Bank
+1998-09-24,9126,9431,Showa Line,KDD
+1999-03-25,5004,9613,Mitsubishi Oil,NTT Data
+1999-03-25,9105,6796,Navix Line,Clarion
+2000-03-28,8401,8601,Mitsui Trust & Banking,Daiwa Securities Group
+2000-04-24,1331,2914,Nichiro,Japan Tobacco
+2000-04-24,1501,4452,Mitsui Mining,Kao
+2000-04-24,1503,4505,Sumitomo Coal Mining,Daiichi Pharmaceutical
+2000-04-24,2108,4523,Nippon Beet Sugar Mfg,Eisai
+2000-04-24,2601,4543,Honen,Terumo
+2000-04-24,3104,6762,Fuji Spinning,TDK
+2000-04-24,3403,6767,Toho Rayon,Mitsumi Electric
+2000-04-24,4022,6781,Rasa Industries,Matsushita Communication Industrial
+2000-04-24,4064,6857,Nippon Carbide Industries,Advantest
+2000-04-24,4092,6952,Nippon Chemical Industrial,Casio Computer
+2000-04-24,4201,6954,Nippon Synthetic Chemical Industry,Fanuc
+2000-04-24,4401,6971,Asahi Denka Kogyo,Kyocera
+2000-04-24,4403,6976,NOF,Taiyo Yuden
+2000-04-24,5105,6991,Toyo Tire & Rubber,Matsushita Electric Works
+2000-04-24,5302,7211,Nippon Carbon,Mitsubishi Motors
+2000-04-24,5331,7270,Noritake,Fuji Heavy Industries
+2000-04-24,5351,8035,Shinagawa Refractories,Tokyo Electron
+2000-04-24,5479,8183,Nippon Metal Industry,Seven-Eleven Japan
+2000-04-24,5480,8264,Nippon Yakin Kogyo,Ito-Yokado
+2000-04-24,5563,8267,Nippon Denko,Jusco
+2000-04-24,5632,8302,Mitsubishi Steel Mfg,Industrial Bank of Japan
+2000-04-24,5721,8319,Shimura Kako,Daiwa Bank
+2000-04-24,5805,8321,Showa Electric Wire & Cable,Tokai Bank
+2000-04-24,5981,8355,Tokyo Rope Mfg,Shizuoka Bank
+2000-04-24,6461,8403,Nippon Piston Ring,Sumitomo Trust & Banking
+2000-04-24,8061,8404,Seika,Yasuda Trust & Banking
+2000-04-24,8088,8753,Iwatani International,Sumitomo Marine & Fire Insurance
+2000-04-24,8236,9020,Maruzen,East Japan Railway
+2000-04-24,9065,9433,Sankyu,DDI
+2000-04-24,9302,9437,Mitsui-Soko,NTT DoCoMo
+2000-07-03,5005,4911,Tonen,Shiseido
+2000-09-22,8302,8332,Industrial Bank of Japan,Bank of Yokohama
+2000-09-22,8311,8407,Dai-Ichi Kangyo Bank,Toyo Trust & Banking
+2000-09-22,8317,8606,Fuji Bank,Shinko Securities
+2000-09-26,9431,6770,KDD,Alps Electric
+2000-10-02,1815,8305,Tekken,Mizuho Holdings
+2000-10-02,8511,9735,Japan Securities Finance,Secom
+2001-03-23,3863,9201,Nippon Paper Industries,Japan Airlines
+2001-03-27,8314,8233,Sakura Bank,Takashimaya
+2001-03-27,8315,8253,Tokyo-Mitsubishi Bank,Credit Saison
+2001-03-27,8320,9064,Sanwa Bank,Yamato Transport
+2001-03-27,8321,--,Tokai Bank,
+2001-03-27,8402,--,Mitsubishi Trust and Banking,
+2001-03-27,8407,--,Toyo Trust and Banking,
+2001-03-30,--,3893,,Nippon Unipac Holding
+2001-04-03,--,8306,,Mitsubishi Tokyo Financial Group
+2001-04-03,--,8307,,UFJ Holdings
+2001-09-25,8753,9021,Sumitomo Marine & Fire,West Japan Railway
+2001-10-01,6310,1928,Iseki,Sekisui House
+2001-10-01,9006,4511,Keihin Electric Express Railway,Fujisawa Pharmaceutical
+2001-11-28,6011,8830,Niigata Engineering,Sumitomo Realty & Development
+2001-12-05,8319,--,Daiwa Bank,
+2001-12-07,1886,6367,Aoki,Daikin Industries
+2001-12-12,--,8308,,Daiwa Bank Holdings
+2002-02-25,8322,--,Asahi Bank,
+2002-02-27,--,8331,,Chiba Bank
+2002-03-04,1804,--,Sato Kogyo,
+2002-03-06,--,1947,,Nippon Comsys
+2002-03-26,8751,--,Tokio Marine and Fire Insurance,
+2002-04-02,--,8766,,Millea Holdings
+2002-09-06,1806,--,Fujita,
+2002-09-11,--,8309,,Mitsui Trust Holdings
+2002-09-19,5014,4704,Japan Energy,Trend Micro
+2002-09-19,5403,7733,Kawasaki Steel,Olympus Optical
+2002-09-19,5404,8238,NKK,Isetan
+2002-09-25,6781,--,Matsushita Communication,
+2002-09-25,9201,--,Japan Airlines,
+2002-09-27,--,5016,,Nippon Mining Holdings
+2002-09-27,--,5411,,JFE Holdings
+2002-10-02,1301,9737,Kyokuyo,CSK
+2002-10-02,1805,9205,Tobishima,Japan Airlines System
+2002-11-26,8318,--,Sumitomo Mitsui Banking,
+2002-12-03,--,8316,,Sumitomo Mitsui Financial Group
+2003-03-06,8305,--,Mizuho Holdings,
+2003-03-13,--,8411,,Mizuho Financial Group
+2003-03-26,8063,--,Nissho Iwai,
+2003-04-02,--,2768,,Nissho Iwai-Nichimen Holdings
+2003-08-26,8231,--,Mitsukoshi(Old),
+2003-09-02,--,2779,,Mitsukoshi(New)
+2003-09-22,1947,--,Nippon Comsys,
+2003-09-25,1837,1963,Hazama,JGC
+2003-09-30,--,1721,,Comsys Holdings
+2003-10-01,1885,9766,Toa,Konami
+2004-03-26,6933,--,YUASA,
+2004-04-02,--,6674,,GS Yuasa
+2004-10-01,2536,2282,Mercian,Nippon Meat Packers
+2004-10-01,6474,4324,Nachi-Fujikoshi,Dentsu
+2004-10-01,7102,9984,Nippon Sharyo,Softbank
+2005-03-28,4511,4519,Fujisawa Pharmaceutical,Chugai Pharmaceutical
+2005-03-28,8232,4689,Tokyu Department Store,Yahoo Japan
+2005-05-13,3102,--,Kanebo,
+2005-05-17,--,4183,,Mitsui Chemicals
+2005-08-26,8264,9983,Ito-Yokado,Fast Retailing
+2005-08-26,8183,--,Seven-Eleven Japan,
+2005-09-02,--,3382,,Seven & I Holdings
+2005-09-21,4501,4795,Sankyo,Sky Perfect Communications
+2005-09-21,4505,8303,Daiichi Pharmaceutical,Shinsei Bank
+2005-09-27,4010,8795,Mitsubishi Chemical,T&D Holdings
+2005-09-27,8307,--,UFJ Holdings,
+2005-09-29,--,4568,,Daiichi Sankyo
+2005-10-04,2201,4188,Morinaga,Mitsubishi Chemical Holdings
+2006-03-28,1601,8015,Teikoku Oil,Toyota Tsusho
+2006-03-28,8003,--,Tomen,
+2006-04-04,--,1605,,Inpex Holdings
+2006-10-02,2001,8815,Nippon Flour Mills,Tokyu Land
+2006-10-02,9605,9602,Toei,Toho
+2007-03-27,4795,--,Sky Perfect Communications,
+2007-04-03,--,9412,,Sky Perfect Jsat
+2007-10-01,2602,3086,Nisshin OilliO Group,J. Front Retailing
+2007-10-01,7231,3436,Topy Industries,SUMCO
+2008-01-23,8603,--,Nikko Cordial,
+2008-01-28,--,8354,,Fukuoka Financial Group
+2008-03-26,2779,8270,Mitsukoshi,Uny
+2008-03-26,8238,--,Isetan,
+2008-03-26,8752,--,Mitsui Sumitomo Insurance,
+2008-04-02,--,3099,,Isetan Mitsukoshi Holdings
+2008-04-02,--,8725,,Mitsui Sumitomo Insurance Group Holdings
+2008-07-28,8583,8628,Mitsubishi UFJ Nicos,Matsui Securities
+2008-10-01,1861,5541,Kumagai Gumi,Pacific Metals
+2008-10-01,4045,6305,Toagosei,Hitachi Construction Machinery
+2009-03-26,2202,1334,Meiji Seika Kaisha,Maruha Nichiro Holdings
+2009-03-26,2261,--,Meiji Dairies,
+2009-04-02,--,2269,,Meiji Holdings
+2010-01-20,9205,--,Japan Airlines,
+2010-01-22,--,9022,,Central Japan Railway
+2010-03-29,5001,5407,Nippon Oil,Nisshin Steel
+2010-03-29,5016,--,Nippon Mining Holdings,
+2010-03-29,8755,--,Sompo Japan Insurance,
+2010-04-02,--,5020,,JX Holdings
+2010-04-02,--,8630,,NKSJ Holdings
+2010-09-28,3404,5214,Mitsubishi Rayon,Nippon Electric Glass
+2010-10-01,6796,8804,Clarion,Tokyo Tatemono
+2011-03-29,6764,6506,Sanyo Electric,Yaskawa Electric
+2011-03-29,6991,7735,Panasonic Electric Works,Dainippon Screen Mfg.
+2011-03-29,8403,8750,Sumitomo Trust & Banking,Dai-ichi Life Insurance
+2011-08-29,8404,8304,Mizuho Trust & Banking,Aozora Bank
+2011-08-29,8606,8729,Mizuho Securities,Sony Financial Holdings
+2011-09-28,9737,6113,CSK,Amada
+2012-09-26,5405,4043,Sumitomo Metal Industries,Tokuyama
+2012-09-26,5407,--,Nisshin Steel,
+2012-09-26,5701,--,Nippon Light Metal,
+2012-10-02,--,5413,,Nisshin Steel Holdings
+2012-10-02,--,5703,,Nippon Light Metal Holdings
+2013-03-27,3893,--,Nippon Paper Group,
+2013-04-02,--,3863,,Nippon Paper Industries
+2013-09-26,8815,6988,Tokyu Land Corporation,Nitto Denko Corporation
+2013-10-02,3864,3289,Mitsubishi Paper Mills Ltd.,Tokyu Fudosan Holdings Corporation
+2014-03-27,1334,--,Maruha Nichiro Holdings,
+2014-04-02,--,1333,,Maruha Nichiro
+2015-10-01,3110,1808,Nitto Boseki,Haseko Corporation
+2015-10-01,8803,2432,Heiwa Real Estate,DeNA
+2016-03-29,8332,--,The Bank of Yokohama,
+2016-04-04,--,7186,,Concordia Financial Group
+2016-08-01,6753,7272,Sharp,Yamaha Motor
+2016-08-29,8270,8028,UNY Group Holdings,FamilyMart
+2016-10-03,4041,4755,Nippon Soda,Rakuten
+2017-01-24,6767,4578,Mitsumi Electric,Otsuka Holdings
+2017-08-01,6502,6724,Toshiba,Seiko Epson
+2017-10-02,3865,6098,Hokuetsu Kishu Paper,Recruit Holdings
+2017-10-02,6508,6178,Meidensha,Japan Post Holdings
+2018-10-01,5715,4751,Furukawa,CyberAgent
+2018-12-26,5413,4631,Nisshin Steel,DIC
+2019-03-18,6773,6645,Pioneer,OMRON
+2019-03-27,5002,5019,Showa Shell Sekiyu,Idemitsu Kosan
+2019-08-01,6366,7832,Chiyoda,BANDAI NAMCO Holdings
+2019-10-01,9681,2413,Tokyo Dome,M3
+2020-07-29,8729,8697,Sony Financial Holdings,Japan Exchange Group
+2020-10-01,4272,9434,Nippon Kayaku,SoftBank
+2020-10-29,8028,3659,FamilyMart,NEXON
+2020-12-02,9437,6753,NTT Docomo,Sharp
+2021-10-01,3105,6861,Nisshinbo Holdings,KEYENCE
+2021-10-01,5901,6981,Toyo Seikan Group Holdings,Murata Manufacturing
+2021-10-01,9412,7974,SKY Perfect JSAT Holdings,Nintendo
+2021-12-29,9062,--,Nippon Express,
+2022-01-05,--,9147,,Nippon Express Holdings
+2022-04-04,8303,8591,Shinsei Bank,ORIX Corporation
+2022-09-29,8355,6594,Shizuoka Bank,Nidec
+2022-10-03,3103,6273,Unitika,SMC
+2022-10-03,6703,7741,Oki Electric Industry,HOYA
+2022-10-04,1333,5831,Maruha Nichiro,Shizuoka Financial Group
+2023-04-03,3101,4661,Toyobo,Oriental Land
+2023-04-03,5703,6723,Nippon Light Metal Holdings,Renesas Electronics
+2023-04-03,5707,9201,Toho Zinc,Japan Airlines
+2023-10-02,5202,4385,Nippon Sheet Glass,Mercari
+2023-10-02,7003,6920,Mitsui E&S,Lasertec
+2023-10-02,8628,9843,Matsui Securities,Nitori Holdings
+2024-04-01,2531,3092,Takara Holdings,ZOZO
+2024-04-01,5232,6146,Sumitomo Osaka Cement,Disco
+2024-04-01,5541,6526,Pacific Metals,Socionext
+2024-10-01,3863,4307,Nippon Paper Industries,Nomura Research Institute
+2024-10-01,4631,7453,DIC,Ryohin Keikaku
+2025-04-01,9301,6532,Mitsubishi Logistics,BayCurrent
+2025-07-04,9613,6963,NTT Data Group,Rohm
+2025-10-01,7762,3697,Citizen Watch,SHIFT
+2025-11-11,6594,4062,Nidec,Ibiden
+2026-04-01,6674,285A,GS Yuasa,Kioxia Holdings
+2026-04-01,6952,543A,CASIO COMPUTER,ARCHION
+2026-04-01,7205,7532,HINO MOTORS,Pan Pacific International Holdings

@@ -1,0 +1,45 @@
+successor,successor_name,successor_first_day,predecessor,predecessor_name,predecessor_last_day,gap_days,weight,nikkei_deleted,nikkei_added,price_ratio,partial,event,ok_prices
+8305,MIZUHO HOLDINGS,2000-09-28,8302,INDUSTRIAL BANK OF JAPAN,2000-09-21,7,0.292955,2000-09-22,2000-10-02,,,"Mizuho Holdings: joint holding company of IBJ, Dai-Ichi Kangyo Bank and Fuji Bank",True
+8305,MIZUHO HOLDINGS,2000-09-28,8311,DAI-ICHI KANGYO BANK,2000-09-21,7,0.271632,2000-09-22,2000-10-02,,,"Mizuho Holdings: joint holding company of IBJ, Dai-Ichi Kangyo Bank and Fuji Bank",True
+8305,MIZUHO HOLDINGS,2000-09-28,8317,FUJI BANK,2000-09-21,7,0.435413,2000-09-22,2000-10-02,,,"Mizuho Holdings: joint holding company of IBJ, Dai-Ichi Kangyo Bank and Fuji Bank",True
+3893,NIPPON PAPER GROUP,2001-03-29,3863,NIPPON PAPER INDUSTRIES,2001-03-22,7,1,2001-03-23,2001-03-30,1175.24,Daishowa Paper,Nippon Unipac Holding (later Nippon Paper Group): Nippon Paper Industries + Daishowa Paper,True
+8306,"MITSUBISHI UFJ FINANCIAL GROUP, INC.",2001-04-02,8315,TOKYO-MITSUBISHI BANK,2001-03-26,7,0.804476,2001-03-27,2001-04-03,,Nippon Trust Bank,Mitsubishi Tokyo Financial Group: Bank of Tokyo-Mitsubishi + Mitsubishi Trust (+ Nippon Trust),True
+8306,"MITSUBISHI UFJ FINANCIAL GROUP, INC.",2001-04-02,8402,MITSUBISHI TRUST AND BANKING,2001-03-26,7,0.195524,2001-03-27,2001-04-03,,Nippon Trust Bank,Mitsubishi Tokyo Financial Group: Bank of Tokyo-Mitsubishi + Mitsubishi Trust (+ Nippon Trust),True
+8307,UFJ HOLDINGS,2001-04-02,8320,SANWA BANK,2001-03-26,7,0.656617,2001-03-27,2001-04-03,,,UFJ Holdings: Sanwa Bank + Tokai Bank + Toyo Trust,True
+8307,UFJ HOLDINGS,2001-04-02,8321,TOKAI BANK,2001-03-26,7,0.241906,2001-03-27,2001-04-03,,,UFJ Holdings: Sanwa Bank + Tokai Bank + Toyo Trust,True
+8307,UFJ HOLDINGS,2001-04-02,8407,TOYO TRUST AND BANKING,2001-03-26,7,0.101477,2001-03-27,2001-04-03,,,UFJ Holdings: Sanwa Bank + Tokai Bank + Toyo Trust,True
+8308,"RESONA HOLDINGS, INC.",2001-12-11,8319,DAIWA BANK,2001-12-04,7,1,2001-12-05,2001-12-12,0.978261,"Kinki Osaka Bank, Nara Bank",Daiwa Bank Holdings (Resona): Daiwa Bank + Kinki Osaka Bank + Nara Bank,True
+8766,"TOKIO MARINE HOLDINGS, INC.",2002-04-01,8751,TOKIO MARINE AND FIRE INSURANCE,2002-03-25,7,1,2002-03-26,2002-04-02,1083.95,Nichido Fire,Millea Holdings (Tokio Marine): Tokio Marine & Fire + Nichido Fire,True
+5016,NIPPON MINING HOLDINGS,2002-09-26,5014,JAPAN ENERGY,2002-09-18,8,1,2002-09-19,2002-09-27,2.03788,Nikko Materials,Nippon Mining Holdings: Japan Energy + Nikko Materials,True
+5411,"JFE HOLDINGS, INC.",2002-09-26,5403,KAWASAKI STEEL,2002-09-18,8,0.583423,2002-09-19,2002-09-27,,,JFE Holdings: Kawasaki Steel + NKK,True
+5411,"JFE HOLDINGS, INC.",2002-09-26,5404,NKK,2002-09-18,8,0.416577,2002-09-19,2002-09-27,,,JFE Holdings: Kawasaki Steel + NKK,True
+9205,JAPAN AIRLINES,2002-10-01,9201,"JAPAN AIRLINES CO., LTD.",2002-09-24,7,1,2002-09-25,2002-10-02,1.05085,Japan Air System,Japan Airlines System: Japan Airlines + Japan Air System,True
+8316,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",2002-12-02,8318,SUMITOMO MITSUI BANKING,2002-11-25,7,1,2002-11-26,2002-12-03,1104.86,,Sumitomo Mitsui Financial Group: holding company of Sumitomo Mitsui Banking,True
+8411,"MIZUHO FINANCIAL GROUP, INC.",2003-03-12,8305,MIZUHO HOLDINGS,2003-03-05,7,1,2003-03-06,2003-03-13,0.946429,,Mizuho Financial Group: Mizuho Holdings reorganised,True
+2768,SOJITZ CORP.,2003-04-01,8063,NISSHO IWAI,2003-03-25,7,1,2003-03-26,2003-04-02,10.1562,Nichimen,Nissho Iwai-Nichimen Holdings (Sojitz): Nissho Iwai + Nichimen,True
+2779,MITSUKOSHI,2003-09-01,8231,MITSUKOSHI(OLD),2003-08-25,7,1,2003-08-26,2003-09-02,1.17188,regional Mitsukoshi companies,Mitsukoshi (new): Mitsukoshi + four regional Mitsukoshi companies,True
+1721,COMSYS HOLDINGS CORP.,2003-09-29,1947,NIPPON COMSYS,2003-09-19,10,1,2003-09-22,2003-09-30,1.07332,"Sanwa Densetsu, Tokyo Tsuushin Network",Comsys Holdings: Nippon Comsys + Sanwa Densetsu + Tokyo Tsuushin Network,True
+6674,GS YUASA,2004-04-01,6933,YUASA,2004-03-25,7,1,2004-03-26,2004-04-02,1.11579,Japan Storage Battery,GS Yuasa: Yuasa + Japan Storage Battery,True
+3382,"SEVEN & I HOLDINGS CO., LTD.",2005-09-01,8183,SEVEN-ELEVEN JAPAN,2005-08-25,7,0.447356,2005-08-26,2005-09-02,,Denny's Japan,Seven & i Holdings: Seven-Eleven Japan + Ito-Yokado + Denny's Japan,True
+3382,"SEVEN & I HOLDINGS CO., LTD.",2005-09-01,8264,ITO-YOKADO,2005-08-25,7,0.552644,2005-08-26,2005-09-02,,Denny's Japan,Seven & i Holdings: Seven-Eleven Japan + Ito-Yokado + Denny's Japan,True
+4568,"DAIICHI SANKYO CO., LTD.",2005-09-28,4501,SANKYO,2005-09-20,8,0.59009,2005-09-21,2005-09-29,,,Daiichi Sankyo: Sankyo + Daiichi Pharmaceutical,True
+4568,"DAIICHI SANKYO CO., LTD.",2005-09-28,4505,DAIICHI PHARMACEUTICAL,2005-09-20,8,0.40991,2005-09-21,2005-09-29,,,Daiichi Sankyo: Sankyo + Daiichi Pharmaceutical,True
+4188,MITSUBISHI CHEMICAL GROUP CORP.,2005-10-03,4010,MITSUBISHI CHEMICAL,2005-09-26,7,1,2005-09-27,2005-10-04,2.16755,Mitsubishi Pharma,Mitsubishi Chemical Holdings: Mitsubishi Chemical + Mitsubishi Pharma,True
+9412,SKY PERFECT JSAT HOLDINGS,2007-04-02,4795,SKY PERFECT COMMUNICATIONS,2007-03-26,7,1,2007-03-27,2007-04-03,0.976505,JSAT,Sky Perfect JSAT Holdings: Sky Perfect Communications + JSAT,True
+3099,ISETAN MITSUKOSHI HOLDINGS LTD.,2008-04-01,8238,ISETAN,2008-03-25,7,0.621285,2008-03-26,2008-04-02,,,Isetan Mitsukoshi Holdings: Isetan + Mitsukoshi,True
+3099,ISETAN MITSUKOSHI HOLDINGS LTD.,2008-04-01,2779,MITSUKOSHI,2008-03-25,7,0.378715,2008-03-26,2008-04-02,,,Isetan Mitsukoshi Holdings: Isetan + Mitsukoshi,True
+8725,"MS&AD INSURANCE GROUP HOLDINGS, INC.",2008-04-01,8752,MITSUI SUMITOMO INSURANCE,2008-03-25,7,1,2008-03-26,2008-04-02,3.69414,,Mitsui Sumitomo Insurance Group Holdings (MS&AD): holding company of Mitsui Sumitomo Insurance,True
+2269,"MEIJI HOLDINGS CO., LTD.",2009-04-01,2202,MEIJI SEIKA KAISHA,2009-03-25,7,0.453352,2009-03-26,2009-04-02,,,Meiji Holdings: Meiji Seika Kaisha + Meiji Dairies,True
+2269,"MEIJI HOLDINGS CO., LTD.",2009-04-01,2261,MEIJI DAIRIES,2009-03-25,7,0.546648,2009-03-26,2009-04-02,,,Meiji Holdings: Meiji Seika Kaisha + Meiji Dairies,True
+5020,"ENEOS HOLDINGS, INC.",2010-04-01,5001,NIPPON OIL,2010-03-26,6,0.555407,2010-03-29,2010-04-02,,,JX Holdings (ENEOS): Nippon Oil + Nippon Mining Holdings,True
+5020,"ENEOS HOLDINGS, INC.",2010-04-01,5016,NIPPON MINING HOLDINGS,2010-03-26,6,0.444593,2010-03-29,2010-04-02,,,JX Holdings (ENEOS): Nippon Oil + Nippon Mining Holdings,True
+8630,"SOMPO HOLDINGS, INC.",2010-04-01,8755,SOMPO JAPAN INSURANCE,2010-03-26,6,1,2010-03-29,2010-04-02,1.05488,Nipponkoa,NKSJ Holdings (Sompo): Sompo Japan + Nipponkoa,True
+5413,NISSHIN STEEL,2012-10-01,5407,NISSHIN STEEL,2012-09-25,6,0.912212,2012-09-26,2012-10-02,,,Nisshin Steel Holdings: Nisshin Steel + Nippon Metal Industry,True
+5413,NISSHIN STEEL,2012-10-01,5479,NIPPON METAL INDUSTRY,2012-09-25,6,0.087788,,2012-10-02,,,Nisshin Steel Holdings: Nisshin Steel + Nippon Metal Industry,True
+5703,NIPPON LIGHT METAL HOLDINGS,2012-10-01,5701,NIPPON LIGHT METAL,2012-09-25,6,1,2012-09-26,2012-10-02,1.03947,,Nippon Light Metal Holdings: holding company of Nippon Light Metal,True
+3863,NIPPON PAPER INDUSTRIES,2013-04-01,3893,NIPPON PAPER GROUP,2013-03-26,6,1,2013-03-27,2013-04-02,0.985675,,Nippon Paper Industries (relisted under its old code): Nippon Paper Group merged into it,True
+3289,TOKYU FUDOSAN HOLDINGS CORP.,2013-10-01,8815,TOKYU LAND CORPORATION,2013-09-25,6,1,2013-09-26,2013-10-02,1.02351,"Tokyu Livable, Tokyu Community",Tokyu Fudosan Holdings: Tokyu Land + Tokyu Livable + Tokyu Community,True
+1333,MARUHA NICHIRO,2014-04-01,1334,MARUHA NICHIRO HOLDINGS,2014-03-26,6,1,2014-03-27,2014-04-02,10.4353,,Maruha Nichiro: Maruha Nichiro Holdings merged into its subsidiary,True
+7186,"YOKOHAMA FINANCIAL GROUP, INC.",2016-04-01,8332,THE BANK OF YOKOHAMA,2016-03-28,4,1,2016-03-29,2016-04-04,1.02885,Higashi-Nippon Bank,Concordia Financial Group: Bank of Yokohama + Higashi-Nippon Bank,True
+9147,"NIPPON EXPRESS HOLDINGS, INC.",2022-01-04,9062,NIPPON EXPRESS,2021-12-28,7,1,2021-12-29,2022-01-05,1.02894,,Nippon Express Holdings: holding company of Nippon Express,True
+5831,"SHIZUOKA FINANCIAL GROUP, INC.",2022-10-03,8355,SHIZUOKA BANK,2022-09-28,5,1,2022-09-29,2022-10-04,0.983127,,Shizuoka Financial Group: holding company of Shizuoka Bank,True

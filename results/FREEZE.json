@@ -1,0 +1,30 @@
+{
+ "frozen_at": "2026-10-31T16:41:14",
+ "decisions": "D1-D21",
+ "code_sha256": "484b657a55c94636a3a39834f245cf94b9324fcd0d9ff1092d64047cffe0b151",
+ "runs": [
+  "B0",
+  "C1_regime_off",
+  "C2_no_cost_terms",
+  "C3_updater_off",
+  "C4_fund_rules_relaxed",
+  "C5_hist_mean",
+  "BM_1N",
+  "BM_quintile",
+  "S_borrow_035",
+  "S_short_6m",
+  "S_cost_010",
+  "S_cost_025",
+  "S_weekly",
+  "S_quarterly",
+  "S_pi_bear_capped",
+  "S_delay_5",
+  "S_delay_10",
+  "S_hmm",
+  "S_grisk_5",
+  "S_grisk_20",
+  "S_nav_100bn",
+  "S_delta_1",
+  "S_no_imputed_div"
+ ]
+}
