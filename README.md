@@ -65,3 +65,4 @@ Each run takes about an hour. `backtest.py` refuses test-period runs before a fr
 
 JPX, Nikkei, Yahoo Finance, Bank of Japan and Kenneth French data remain subject to their providers' terms.
 Only code, the parsed index membership and the run outputs are published here.
+The code is released under the MIT License (see `LICENSE`).
